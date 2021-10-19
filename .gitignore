@@ -84,37 +84,8 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
-# android/input
-<head><cheese> - ["headcheese"] 
-# toppings
-<arm><case> - ["armcase"] 
-              # input pizza $//PZA_TOP_FLAV//TOS_PIZ_FLAV
-            
+Done.
 
-Then ["pizza"] # a pizza cooked 30 minutes
 
-Run: |-
 
-# Version pizza
-   209.192
-# bug
-Bug/generate
-Bug/realase
-Bug/cash
 
-Bug - ["LUNCH"]
-  
-       ///a system bug lunch in the pizdroid
-  
-  
-
-  # lunch pizza $///PZA_PZA_TOP///FLAV_BUG_GOG///
-
-# junk files 
-*.7.73 MB
-
-                }
-
-}
-
-end. 
